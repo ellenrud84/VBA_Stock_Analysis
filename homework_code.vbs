@@ -127,7 +127,7 @@ For Each ws In Worksheets
       Dim greatest_total_vol As LongLong
       Dim headers2() As Variant
       Dim ticker_gpi As String
-      Dim ticket_gpd As String
+      Dim ticker_gpd As String
       Dim ticker_tsv As String
       Dim outputs2() As Variant
       Dim outputs3() As Variant
